@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">MyAppWithAdMob</string>
+    <string name="title_1">Mosque in Iran</string>
+    <string name="description_1">this mosque is situated in iran. Iran is also a muslim country</string>
+    <string name="title_2">Grand-Mosque-Sheikh-Zayed-Mosque-Abu-Dhabi</string>
+    <string name="description_2">Grand-Mosque-Sheikh-Zayed-Mosque-Abu-Dhabi
+    Its situated in UAE</string>
+    <string name="title_3">faisal-mosque-islamabad</string>
+    <string name="description_3">faisal-mosque-islamabad.Its situated in Pakistan</string>
+    <string name="title_4">Aqs_,mosque_yaroshalam_phalasteen</string>
+    <string name="description_4">Aqs_,mosque_yaroshalam_phalasteen. Its situated in Phalasteen (Israeel)</string>
+    <string name="title_5">shahi_mosque_lahore</string>
+    <string name="description_5">shahi_mosque_lahore. Its is situated in lahore pakistan</string>
+    <string name="title_6">Masjid-e-Nabwi</string>
+    <string name="description_6">Masjid-e-Nabwi. The Roza e Rasool Sallalaho Alaihi Wasalam. Its situated in Yasrub KSA</string>
+    <string name="title_7">alharam_mosque_riaz</string>
+    <string name="description_7">alharam_mosque_riaz. Its Qibal e Sani. Its is situated in Riaz Jiddah KSA</string>
+    <string name="title_8">mosque_in_russia</string>
+    <string name="description_8">mosque_in_russia. This mosque is situated in federation of russia old soviet union</string>
+    <string name="title_9">aya_sofia_turkey</string>
+    <string name="description_9">aya_sofia_turkey. previously it was known as a temple but later in 2020 MR. Presedent Erdugon converted it into a mosque. </string>
+    <string name="title_10">sultan-omar-ali-saifuddien-mosque</string>
+    <string name="description_10">sultan-omar-ali-saifuddien-mosque. I don\'t have much information about this mosque.</string>
+    <string name="title_11">Siddiqa_Fatima_Zahra_Mosque_Kuwait</string>
+    <string name="description_11">Siddiqa_Fatima_Zahra_Mosque_Kuwait. I don\'t have much information about this mosque.</string>
+
+
+    <string name="Biography">Hi, every body \n This is Hafiz Muhammad Hasnain.\n
+    I,m a bachelor of computer science. I have been as a android developer since May 2022.\n
+        Working as a android developer its a great passion.\n If your are new to android then must start with kotlin.\n
+        Its very power full advanced and comprehensive programming lanuage.\n
+        Google have announced as a official language for writing all applications
+        <h1>History of Kotlin</h1>\n
+        Kotlin was developed by JetBrains in 2010.
+        \n They initially released it under the name Project Kotlin in July 2011.\n
+        They needed a language that was concise, elegant, expressive, \n
+        and also interoperable with Java, as most of their products \n
+        were developed in Java, including the Intellij Idea. They were looking \n
+        for an alternate language to reduce the amount of boilerplate \n
+        code required and to introduce new constructs, such as higher-order \n
+        functions, to make language more expressive and concise.\n
+        One of the goals of the Kotlin language was to \n
+        be able to compile code as quickly as Java.
+        \n So if you want to grow in as a android developer we must recommend you to start \n working with kotlin. Because its a new emerging \n technology having
+        tremendous scope. So be quick and go to start.
+    </string>
+    <string name="Title0">Hafiz M Hasnain</string>
+</resources>
